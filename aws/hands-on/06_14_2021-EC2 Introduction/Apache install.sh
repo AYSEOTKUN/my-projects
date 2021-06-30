@@ -44,7 +44,6 @@ sudo yum update -y
 
 4. Install the Apache Web Server-default page
 
-
 sudo yum install httpd -y
 
 
