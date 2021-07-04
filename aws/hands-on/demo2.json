@@ -1,0 +1,4 @@
+{
+  "script": "echo\"hello world\"\nexport PROFİLE=\"teacher\"\necho $PROFİLE\n",
+  "paragraph": "this line  will be  in single  line.\n"
+}
