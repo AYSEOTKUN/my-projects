@@ -34,7 +34,7 @@ cd filters
 vim days.txt
 ```
 ​
-```txt
+```bash
 Monday
 Tuesday
 Wednesday
@@ -310,13 +310,7 @@ EOF
 ```
 ## Part 2 - Using Control Operators
 ​
-- Create a folder and name it operators.
-​
-```bash
-mkdir operators
-cd operators
-```
-**;**
+>**;**
 ​
 - Write two seperate cat command on the same line using ;.
 ​
@@ -326,7 +320,7 @@ cat days.txt ; cat count.txt
 ```bash
 echo Hello ; echo World! 
 ```
-**&**
+>**&**
 ​
 - Run sleep 10 command and show that the kernel is busy until the process of this command ends.
 ​
@@ -341,7 +335,7 @@ ls -l
 cat count.txt
 cat days.txt
 ```
-**$?**
+>**$?**
 ​
 - Run ls command and show that it is executed successfully.
 ​
@@ -355,7 +349,7 @@ echo $?
 lss
 echo $?
 ```
-**&&**
+>**&&**
 ​
 - Display days.txt and if it runs properly display count.txt.
 ​
@@ -367,7 +361,7 @@ cat days.txt && cat count.txt
 ```bash
 cat days.text && cat count.txt
 ```
-**||**
+>**||**
 ​
 - Display days.txt or write 'clarusway' on the screen, then write 'one'.
 ​
@@ -380,7 +374,7 @@ cat days.txt || echo clarusway ; echo one
 echo first || echo second ; echo third
 zecho first || echo second ; echo third
 ```
-**&& and ||**
+>**&& and ||**
 ​
 - Make a copy of file1.txt and named it file11.txt.
 ​
@@ -397,7 +391,7 @@ rm file11.txt && echo 'it worked' || echo 'it failed'
 ```bash
 rm file11.txt && echo 'it worked' || 'it failed'
 ```
-**#**
+>**#**
 ​
 - Run the echo command and add a comment line.
 ​
@@ -406,7 +400,7 @@ echo '# is the comment sign' # echo command displays the string comes after it.
 echo # is the comment sign
 echo \# is the comment sign
 ```
-*** \ ***
+>** \ **
 ​
 - Run a single command on multipe lines.
 ​

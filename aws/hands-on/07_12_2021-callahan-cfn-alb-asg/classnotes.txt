@@ -1,0 +1,60 @@
+AWS CloudFormation Session
+Using Cloudformation for Creating ALB with ASG  
+7/12/2021
+
+Instructor: Callahan
+
+Session - 1
+
+Session starts at 7pm EST
+
+Break Until 8pm EST
+
+Break Until 9pm EST
+
+
+
+Note: To get the latest changes in the file run `git pull` command in your terminal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+References:
+- https://yaml.org/
+- https://json.org/
+- https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html
+- https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-reference.html
+
+- VS Code Extensions for YAML and Cloudformation:
+  - CloudFormation Snippets
+    dsteenman.cloudformation-yaml-snippets
+    Danny Steenman
+
+  - CloudFormation Linter
+    kddejong.vscode-cfn-lint
+    kddejong
+
+  - YAML :heart: JSON
+    hilleer.yaml-plus-json
+    Daniel Hillmann
+
+  - YAML
+    redhat.vscode-yaml
+    Red Hat

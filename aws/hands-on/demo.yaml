@@ -1,7 +1,0 @@
-instructor:
-  name: charlie
-  department: aws
-  job: cloud engineer
-students:
-  -name: ayse
-  -age: 36

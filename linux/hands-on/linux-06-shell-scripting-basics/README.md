@@ -63,7 +63,7 @@ ls
 - And execute again.
 
 ```bash
-./basic.sh
+./basic.sh:
 ```
 
 ### Shell Comments
