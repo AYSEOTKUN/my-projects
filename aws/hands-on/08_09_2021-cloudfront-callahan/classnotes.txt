@@ -1,0 +1,18 @@
+AWS Cloudfront Session
+8/9/2021
+
+Instructor: Callahan
+
+Session starts at 7pm EST
+
+
+
+
+
+
+  
+References:
+- https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html
+- https://aws.amazon.com/about-aws/global-infrastructure/
+
+
